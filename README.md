@@ -10,16 +10,16 @@
 
 ## Hobbies
 - ### Uche loves to pass the time on social media, often sharing his favorite posts with his friends.
-- ### Speaking of friends, another one of Uche's favorite things to do is hanging out with his friends both at and outside of school.
+- ### Speaking of friends, another one of Uche's favorite things to do is hang out with his friends both at and outside of school.
 - ### Another interest of Mr. Achigbu is basketball. He claims to watch it on television, but lacks knowledge in the sport. He does like to play when he gets the chance, although he is mediocre.
 
 ## Fun Facts
 - ### He wears a size 11 shoe.
 - ### He has a bike.
-- ### He has 2 brothers.
-
+- ### He has two brothers.
+- ### When asked what his favorite restaurant was, Uche replied "My favorite restaurant is Popeyes because Popeyes pops"
+- #### A link to Popeyes menu: [PopeyesMenu](https://www.popeyes.com/menu)
 ## Media
 ### Photos of Uche in his everyday life
 ![img uche](image1.jpeg)
 ![img ucheagain](image0.jpeg)
-
